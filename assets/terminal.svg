@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 270" width="520" height="270" role="img" aria-labelledby="t d">
+<title id="t">Terminal animado</title>
+<desc id="d">Três comandos digitados em sequência: uma chamada de login JWT que retorna 200 OK, a suíte pytest com 73 testes aprovados e 95% de cobertura, e um git push cujo CI valida o schema OpenAPI e publica a imagem no GHCR.</desc>
+<style>.t{font:13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .p{fill:#5FD3A5} .c{fill:#e6edf3} .o{fill:#8b949e} .g{fill:#5FD3A5} .cur{fill:#5FD3A5;animation:blink 1.1s steps(1,end) 7.6s 8} .curtain{transform-box:fill-box;transform-origin:100% 50%;transform:scaleX(0)} @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} @keyframes show{from{opacity:0}to{opacity:1}} @keyframes reveal{from{transform:scaleX(1)}to{transform:scaleX(0)}} .k0{animation:reveal 1.7s steps(39,end) 0.7s both} .k1{animation:reveal 0.6s steps(8,end) 3.4s both} .k2{animation:reveal 1.0s steps(22,end) 5.4s both} .s0{animation:show .25s ease-out 2.6s both} .s1{animation:show .25s ease-out 4.5s both} .s2{animation:show .25s ease-out 6.8s both} .fin{animation:show .3s ease-out 7.6s both} @media (prefers-reduced-motion:reduce){*{animation:none!important}.cur{opacity:1}}</style>
+<rect x="0.5" y="0.5" width="519" height="269" rx="10" fill="#0f141a" stroke="#30363d"/>
+<text class="t o" x="24" y="27" style="font-size:11.5px">matheus@dev  ~/api</text>
+<line x1="1" y1="40" x2="519" y2="40" stroke="#1c2430"/>
+<text class="t c" x="24" y="74"><tspan class="p">$</tspan> curl -X POST /api/v1/auth/jwt/create/</text>
+<rect class="curtain k0" x="22" y="59" width="325.9" height="22" fill="#0f141a"/>
+<text class="t c" x="24" y="130"><tspan class="p">$</tspan> pytest</text>
+<rect class="curtain k1" x="22" y="115" width="74.8" height="22" fill="#0f141a"/>
+<text class="t c" x="24" y="186"><tspan class="p">$</tspan> git push origin main</text>
+<rect class="curtain k2" x="22" y="171" width="188.2" height="22" fill="#0f141a"/>
+<text class="t o s0" x="40" y="98"><tspan class="g">200 OK</tspan> · access + refresh tokens</text>
+<text class="t o s1" x="40" y="154"><tspan class="g">73 passed</tspan> · coverage 95%</text>
+<text class="t o s2" x="40" y="210"><tspan class="g">CI ok</tspan> · OpenAPI schema valid · image on GHCR</text>
+<g class="fin"><text class="t" x="24" y="242"><tspan class="p">$</tspan></text><rect class="cur" x="40" y="230" width="7.5" height="15"/></g>
+</svg>
