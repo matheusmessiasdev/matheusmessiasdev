@@ -7,8 +7,6 @@
 
 [![Neo-Sheet terminal demo: schema-driven REST API for RPG character sheets](./assets/terminal.svg)](https://matheusmessiasdev.github.io/neo-sheet/)
 
-<a href="https://www.linkedin.com/in/matheusmessiasdev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&labelColor=000000" alt="LinkedIn"></a>
-<a href="mailto:matheuscmessias.mcm@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=000000" alt="E-mail"></a>
 
 </div>
 
